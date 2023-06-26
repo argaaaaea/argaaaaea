@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Arga Christian Roymansa. I'm currently pursuing my Bachelor Degree in Computer Science and Information Systems at Universitas Indonesia. I'm interested in Data Analyst and probably Data Science in the future. 
+My name is Arga Christian Roymansa. I'm currently pursuing my Bachelor Degree in Computer Science and Information Systems at Universitas Indonesia. I'm Backend Engineering, Cloud Computing (Currently using GCP), and Network. 
 
 ### ⚙️Tools that I used⚙️
 #### Operation Systems: ####
