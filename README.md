@@ -13,5 +13,3 @@ My name is Arga Christian Roymansa. I'm currently pursuing my Bachelor Degree in
 ![JavaSCript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=argaaaaea&count_private=true&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
